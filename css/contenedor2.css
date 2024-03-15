@@ -1,0 +1,296 @@
+.contenedor2{
+    /* Frame 48095526 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px;
+    gap: 80px;
+
+    width: 1440px;
+    height: 689px;
+
+    /* Background Color/White */
+    background: #FFFFFF;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    align-self: stretch;
+    flex-grow: 0;
+
+}
+.contendor2-seccion1{
+        /* Frame 48095520 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 439px;
+    height: 88px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+.contenedor2-seccion1-banner {
+        /* Frame 48095519 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+
+    width: 267px;
+    height: 29px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+}
+.contenedor2-banner-titulo{
+        
+    /* Best Learning Experience */
+
+    width: 439px;
+    height: 43px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 120%;
+    /* or 43px */
+    text-align: center;
+
+    /* Background Color/Black */
+    color: #1A2434;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+.contenedor2-banner-separador{
+    /* Vector 2 */
+
+    width: 64px;
+    height: 0px;
+
+    /* Brand Color/Red */
+    border: 4px solid #A4074D;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+.contenedor2-banner-text{
+    /* Why choose us */
+
+    width: 179px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    letter-spacing: 0.02em;
+
+    /* Background Color/Black */
+    color: #1A2434;
+
+    opacity: 0.7;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.contendor2-seccion2{
+    /* Frame 48095525 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+
+    width: 1280px;
+    height: 361px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+
+}
+
+.contenedor2-seccion2-opcion{
+    /* Frame 48095521 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+    gap: 24px;
+
+    width: 296px;
+    height: 361px;
+
+    /* Background Color/Bright Blue */
+    border: 1px solid #F9FCFF;
+    border-radius: 16px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 1;
+
+}
+.contenedor2-opcion-logo{
+    /* Person */
+
+    width: 80px;
+    height: 80px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+.contenedor2-opcion-titulo{
+    /* Expert Instructor */
+
+    width: 248px;
+    height: 29px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+
+    /* Background Color/Black */
+    color: #1A2434;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+
+}
+.contenedor2-opcion-descripcion {
+    /* Empower yourself with the knowledge and skills gained... */
+
+    width: 248px;
+    height: 108px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 180%;
+    /* or 36px */
+    letter-spacing: 0.02em;
+
+    /* Background Color/Black */
+    color: #1A2434;
+
+    opacity: 0.7;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    align-self: stretch;
+    flex-grow: 0;
+
+}
+
+.contendor2-opcion-link {
+        /* Frame 48095522 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 154px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+}
+
+.contenedor2-opcion-link-texto{
+    /* Frame 48095522 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 154px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+}
+
+.contenedor2-opcion-flecha {
+    /* ArrowRight */
+
+    width: 24px;
+    height: 24px;
+
+    opacity: 0.8;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
