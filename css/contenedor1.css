@@ -30,7 +30,7 @@
     order: 0;
     align-self: stretch;
     flex-grow: 0;
-    padding-top: 30%;
+    padding-top: 1%;
 }
 
 .seccion1-titulo{
@@ -38,7 +38,7 @@
     font-family: 'Plus Jakarta Sans';
     font-style: normal;
     font-weight: 700;
-    /*font-size: 60px;*/
+    font-size: 60px;
     line-height: 120%;
     /* or 72px */
 

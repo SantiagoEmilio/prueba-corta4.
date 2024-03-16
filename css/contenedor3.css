@@ -1,0 +1,70 @@
+.seccion1-parte4{
+    position: absolute;
+    width: 1440px;
+    height: 820px;
+
+    /* Background Color/White */
+    /*background: red;*/
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    align-self: stretch;
+    flex-grow: 0;
+    margin-top: 480px;
+}
+
+.contenedorChavas{
+    /*background-color: blue;*/
+    width: 1280px;
+    height: 403px;
+margin-left: 70px;}
+
+.IMGChavaspc{
+    width: 600px;
+    height: 403px;
+}
+
+.TextoChavaspc{
+    width: 600px;
+    height: 403px;
+    /*background-color: yellow;*/
+    margin-left: 650px;
+    margin-top: -407px;
+}
+
+.vector2{
+    width: 64px;
+    border: 4px;
+    margin-left: 20px;
+}
+
+.textochavas2{
+    font-size: 36px;
+    color: #1A2434;
+    font-family: Plus Jakarta Sans;
+    margin-left: 20px;
+}
+
+.textochavas3{
+    font-family: sans-serif;
+    letter-spacing: 2%;
+    font-weight: 400;
+    color: #1A2434;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.botonds{
+    width: 307px;
+    height: 72px;
+    background-color: #A4074D;
+    border-radius: 16px;
+    border-style: none;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
